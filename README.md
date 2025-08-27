@@ -3,7 +3,6 @@
 Lewis University | Romeoville, IL
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 👨‍💻 About Me
 
 I'm a passionate computer science student at Lewis University, currently pursuing a major in Computer Science with a minor in Cybersecurity. 
