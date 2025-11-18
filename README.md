@@ -22,15 +22,15 @@ In addition to my current skills, I am venturing into the exciting world of AI a
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, Java, C++, Lua, Javascript, Assembly
+- **Programming Languages:** Python, Java, C++, C, Lua, Javascript, Assembly
 
-- **Web Technologies:** HTML, CSS, Bootstrap, Django, Flask
+- **Web Technologies:** HTML, CSS, Tailwind, Bootstrap, Django, Flask
 
 - **Database Management:** SQL, Postgresql, MongoDB
 
 - **Cybersecurity:** Computer Networking, Network Security, Ethical Hacking
 
-- **Tools & Platforms:** Linux, Windows, Git, Docker, QEMU, VirtualBox
+- **Tools & Platforms:** Linux, Windows, Git, Docker, Qt, QEMU, VirtualBox
 
 ## 🌱 Currently Learning
 
