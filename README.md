@@ -26,7 +26,7 @@ In addition to my current skills, I am venturing into the exciting world of AI a
 
 - **Web Technologies:** HTML, CSS, Tailwind, Bootstrap, Django, Flask
 
-- **Database Management:** SQL, Postgresql, MongoDB
+- **Database Management:** MySQL, Postgresql, MongoDB
 
 - **Cybersecurity:** Computer Networking, Network Security, Ethical Hacking
 
