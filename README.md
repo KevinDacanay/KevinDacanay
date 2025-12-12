@@ -6,7 +6,7 @@ Lewis University | Romeoville, IL
 
 # 💫 About Me:
 
-I'm a passionate computer science student at Lewis University, currently pursuing a major in Computer Science with a minor in Cybersecurity. Based in the Chicago area, I have a strong interest in collaborating on projects related to software development, backend engineering, and cybersecurity.<br>In addition to my current skills, I am venturing into the exciting world of AI and machine learning, eager to expand my knowledge and apply these technologies to real-world problems.<br>
+I'm a passionate computer science student at Lewis University, currently pursuing a major in Computer Science with a minor in Cybersecurity. Based in the Chicago area, I have a strong interest in collaborating on projects related to software development, backend engineering, and cybersecurity. In addition to my current skills, I am venturing into the exciting world of AI and machine learning, eager to expand my knowledge and apply these technologies to real-world problems.<br>
 
 <br>🔍 Interests<br>
 Software Development: Building efficient, scalable software solutions.
