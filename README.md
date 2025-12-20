@@ -32,7 +32,6 @@ I am a passionate **Computer Science** student at **Lewis University**, pursuing
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/kevin-dacanay-4b1b30353) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KevinDacanay) [![Website](https://img.shields.io/badge/Website-00A9A6?logo=github&logoColor=white)](https://KevinDacanay.github.io)
 
-
 # 💻 Tech Stack:
 # Programming Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
