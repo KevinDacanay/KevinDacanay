@@ -9,7 +9,7 @@ My work spans full-stack web applications, operating systems, and desktop softwa
 --- 
 ## Featured Projects
 
-### [BareBones Operating System](https://github.com/KevinDacanay)
+### [BareBones Operating System](https://github.com/KevinDacanay/OperatingSystemsProject)
 **C++ · x86 Assembly · CMake**
 
 A custom 32-bit bare-metal operating system built entirely from scratch.
@@ -20,7 +20,7 @@ A custom 32-bit bare-metal operating system built entirely from scratch.
 
 ---
 
-### [KPad Text Editor](https://github.com/KevinDacanay)
+### [KPad Text Editor](https://github.com/KevinDacanay/KPad-Text-Editor)
 **C++ · Qt Framework**
 
 A lightweight desktop text editor inspired by Notepad++.
